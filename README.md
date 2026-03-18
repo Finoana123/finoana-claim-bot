@@ -1,1 +1,1 @@
-# finoana-claim-bot
+npm install
